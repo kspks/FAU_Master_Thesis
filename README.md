@@ -13,7 +13,7 @@ More details can be found in my master's thesis, which is also attached in this 
 Developers: 
 - M.Sc. Kseniia Lukin
 - Prof. Dr. Daniel Tenbrinck
-- M.Sc. Ariane Fazeny
+- PhD Student M.Sc. Ariane Fazeny
   
 Related articles:
 - M.Sc. Ariane Fazeny, Prof. Dr. Daniel Tenbrinck, M.Sc. Kseniia Lukin , Prof. Dr. Martin Burger. Hypergraph $p$-Laplacians and Scale Spaces. J Math Imaging Vis (2024). https://doi.org/10.1007/s10851-024-01183-0
