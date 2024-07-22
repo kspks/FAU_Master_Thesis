@@ -1,5 +1,5 @@
-Master Thesis. Topic: 
-Hypergraph p-Laplace operators for Image Denoising. 
+# Master Thesis.
+# Hypergraph p-Laplace operators for Image Denoising. 
 
 Master of Science (M.Sc.) in Computational and Applied Mathematics (CAM) at the Department of Mathematics at the Friedrich-Alexander University Erlangen-Nuremberg. 
 by Kseniia Lukin
