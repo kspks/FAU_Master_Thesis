@@ -11,6 +11,6 @@ More details can be found in my master's thesis, which is also attached in this 
 ---
 
 DEVELOPERS: 
-M.Sc. Kseniia Lukin
-Prof. Dr. Daniel Tenbrinck,
-M.Sc. Ariane Fazeny
+- M.Sc. Kseniia Lukin
+- Prof. Dr. Daniel Tenbrinck
+- M.Sc. Ariane Fazeny
