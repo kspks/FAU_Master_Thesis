@@ -16,5 +16,5 @@ Developers:
 - M.Sc. Ariane Fazeny
   
 Related articles:
-- Fazeny, A., Tenbrinck, D., Lukin, K. , Burger M. Hypergraph $p$-Laplacians and Scale Spaces. J Math Imaging Vis (2024). https://doi.org/10.1007/s10851-024-01183-0
-- Fazeny, Ariane and Tenbrinck, Daniel and Burger, Martin. Hypergraph $p$-Laplacians, Scale Spaces, and Information Flow in Networks. Scale Space and Variational Methods in Computer Vision. Springer International Publishing (2023),https://arxiv.org/abs/2309.15419 
+- M.Sc. Ariane Fazeny, Prof. Dr. Daniel Tenbrinck, M.Sc. Kseniia Lukin , Prof. Dr. Martin Burger. Hypergraph $p$-Laplacians and Scale Spaces. J Math Imaging Vis (2024). https://doi.org/10.1007/s10851-024-01183-0
+- M.Sc. Ariane Fazeny, Prof. Dr. Daniel Tenbrinck, M.Sc. Kseniia Lukin , Prof. Dr. Martin Burger. Hypergraph $p$-Laplacians, Scale Spaces, and Information Flow in Networks. Scale Space and Variational Methods in Computer Vision. Springer International Publishing (2023). https://arxiv.org/abs/2309.15419 
