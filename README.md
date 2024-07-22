@@ -9,4 +9,7 @@ new way to capture local and nonlocal relationships within images. With a specia
 that bridge the theoretical and empirical domains.
 More details can be found in my master's thesis, which is also attached in this repository under the name "Master_Thesis_Kseniia_Lukin".
 
-
+DEVELOPERS: 
+M.Sc. Kseniia Lukin
+Prof. Dr. Daniel Tenbrinck,
+M.Sc. Ariane Fazeny
