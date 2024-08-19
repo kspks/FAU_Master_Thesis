@@ -10,7 +10,7 @@ More details can be found in my master's thesis, which is also attached in this 
 ---
 
 **Developers**: 
-- M.Sc. Kseniia Lukin
+- M.Sc. Kseniia Lukin (kseniia.lukin@gmail.com)
 - Prof. Dr. Daniel Tenbrinck
 - PhD Candidate Ariane Fazeny
   
